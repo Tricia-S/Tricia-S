@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Tricia!
 
-👩🏻‍💻 Budding Data Science Student sharing about my journey and learnings in tech
-👩🏻‍🎓 Studied Data Science at the Ngee Ann Polytechnic, Singapore
-📊 Self initiated DIY internship-style projects shaped by researching stakeholder pain points through conversations and building solutions
-🌷 #learninginpublic in my digital garden
-💭 Currently learning about different types of recommendation system algorithms!
+👩🏻‍💻 Budding Data Science Student sharing about my journey and learnings in tech <br>
+👩🏻‍🎓 Studied Data Science at the Ngee Ann Polytechnic, Singapore <br>
+📊 Self initiated DIY internship-style projects shaped by researching stakeholder pain points through conversations and building solutions <br>
+🌷 #learninginpublic in my digital garden <br>
+💭 Currently learning about different types of recommendation system algorithms! <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tricia-siah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tricia.siah.wr@gmail.com) 
