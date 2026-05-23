@@ -76,12 +76,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tricia-S&limit=5&theme=date_night&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Tricia-S&icon=0&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
