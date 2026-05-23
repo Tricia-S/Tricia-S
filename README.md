@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Tricia!
 
-👩🏻‍💻 Budding Data Science Student sharing about my journey and learnings in tech <br>
-👩🏻‍🎓 Studying Data Science at the Ngee Ann Polytechnic, Singapore <br>
-📊 Self initiated DIY internship-style projects shaped by researching stakeholder pain points through conversations and building solutions <br>
+👩🏻‍💻 Aspiring **Data Scientist** sharing about my journey and learnings in tech <br>
 🌷 #learninginpublic in my [digital garden](https://triciaswr.wixsite.com/website) <br>
 💭 Currently learning about different types of recommendation system algorithms! <br>
 
